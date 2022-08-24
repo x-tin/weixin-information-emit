@@ -10,6 +10,11 @@
 "user": ["oclfa5zCHsUN1Mak3MLW3xKtIU9Q"],
 
 # 信息配置
+# 所在省份
+"province": "成都",
+# 所在城市
+"city": "成都",
+
 # 在一起的日子，格式同上
 "love_date": "2022-08-17"
 }
